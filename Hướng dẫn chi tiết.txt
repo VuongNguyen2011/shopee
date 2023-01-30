@@ -6,8 +6,7 @@ SL |     Họ Tên     |    MSSV    | % Đóng góp
 LINK : /shoppe/admin/
 Tài khoản ADMIN Full quyền : admin - 123
 -------------------------------------------------------------------
-LINK : http://shopeee.infinityfreeapp.com/shoppe/login.php
 Tài khoản khách hàng test : 1 - 12345678
 -------------------------------------------------------------------
 
-
+chi  tiết tại ReviewWeb.docx
